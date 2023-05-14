@@ -1,6 +1,6 @@
 const allowedCors = [
     'http://localhost:3000',
-    'https://poetic-faloodeh-64b7c1.netlify.app'
+    'https://eclectic-vacherin-3a9d03.netlify.app'
 ]
 
 module.exports = allowedCors
